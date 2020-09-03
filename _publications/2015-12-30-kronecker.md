@@ -2,7 +2,7 @@
 title: "Stability of coefficients in the Kronecker product of a hook and a rectangle"
 authors: "Cristina Ballantine, William T. Hallahan"
 collection: publications
-permalink: /publication/kronecker
+permalink: /files/kronecker.pdf
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2015-12-30
 venue: 'Journal of Physics A: Mathematical and Theoretical, Vol. 49 (5)'

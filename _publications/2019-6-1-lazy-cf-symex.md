@@ -2,7 +2,7 @@
 title: "Lazy counterfactual symbolic execution"
 authors: "William T. Hallahan, Anton Xue, Maxwell Troy Bland, Ranjit Jhala, Ruzica Piskac"
 collection: publications
-permalink: /files/lazy-cf-symex
+permalink: /files/lazy-cf-symex.pdf
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-6-1
 venue: 'PLDI 2019'
