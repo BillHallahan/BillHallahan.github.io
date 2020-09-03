@@ -1,10 +1,10 @@
 ---
-title: "Automated repair by example for firewalls"
+title: "Grammar Filtering For Syntax-Guided Synthesis"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2015-10-2
-venue: '2017 Formal Methods in Computer Aided Design (FMCAD)'
+date: 2020-2-1
+venue: 'AAAI 2020'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
