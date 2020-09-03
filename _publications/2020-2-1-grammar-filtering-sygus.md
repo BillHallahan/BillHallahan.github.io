@@ -2,7 +2,7 @@
 title: "Grammar Filtering For Syntax-Guided Synthesis"
 authors: "Kairo Morton, William T. Hallahan, Elven Shum, Ruzica Piskac, Mark Santolucito"
 collection: publications
-permalink: /files/grammar-filtering-sygus.pdf
+permalink: /publications/grammar-filtering-sygus.pdf
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2020-2-1
 venue: 'AAAI 2020'
