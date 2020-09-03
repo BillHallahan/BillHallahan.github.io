@@ -2,11 +2,11 @@
 title: "Automated repair by example for firewalls"
 authors: "William T. Hallahan, Ennan Zhai, Ruzica Piskac"
 collection: publications
-permalink: /publications/repair-firewalls.pdf
+permalink: /files/repair-firewalls.pdf
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2017-10-2
 venue: 'FMCAD 2017'
-paperurl: '/files/repair-firewalls.pdf'
+paperurl: 'http://BillHallahan.github.io/files/repair-firewalls.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 This paper is about the number 2. The number 3 is left for future work.
