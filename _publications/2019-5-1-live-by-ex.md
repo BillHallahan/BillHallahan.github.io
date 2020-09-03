@@ -2,7 +2,7 @@
 title: "Live Programming By Example"
 authors: "Mark Santolucito, William T. Hallahan, Ruzica Piskac"
 collection: publications
-permalink: /files/live-by-ex.pdf
+permalink: /publications/live-by-ex
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-5-1
 venue: 'CHI Extend Abstract 2019'
