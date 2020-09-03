@@ -1,5 +1,6 @@
 ---
 title: "Grammar Filtering For Syntax-Guided Synthesis"
+authors: "Kairo Morton, William T. Hallahan, Elven Shum, Ruzica Piskac, Mark Santolucito"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
